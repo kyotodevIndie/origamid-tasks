@@ -8,8 +8,7 @@ import "./styles.css";
 
 export default function App() {
   return (
-    
-      <div className="App">
+    <div className="App">
       <Button textButton="1" />
       <Button textButton="2" />
       <Button textButton="3" />
@@ -19,7 +18,6 @@ export default function App() {
       <Task2 />
       <Task3 />
       <Task4 />
-      </div>
-    
+    </div>
   );
 }
